@@ -17,11 +17,11 @@ If you like this list, start 🌟 it.
 
 ## Domain
 
-- [Hostinger](https://www.hostinger.com/) - 
+#### [Hostinger](https://www.hostinger.com/) - 
 
 Free domain with hosting plan.
 
-- [Namecheap](https://www.namecheap.com/) - 
+#### [Namecheap](https://www.namecheap.com/) - 
 
 Coupon code for domain names is *BFTLDREG*
 
@@ -53,7 +53,7 @@ Coupon code for domain names is *BFTLDREG*
 
 #### [Hostinger](https://www.hostinger.com/) - upto 90% off 
 
-Offer on hosting plans.
+Offers on hosting plans.
 
 #### [Namecheap](https://www.namecheap.com/) - 
 
@@ -74,11 +74,23 @@ Master Vue.js and the whole ecosystem Nuxt.js, VueX, storybook etc.
 
 ## Design
 
-#### [Craftwork Design](https://craftwork.design/black-friday/) - upto 50% off on illustrations
+#### [Craftwork Design](https://craftwork.design/black-friday/) - upto 50% off 
 
-#### [Draftss](https://draftss.com) - 50% off monthly and quarterly plans 
+Craftwork has assets for Interface designers, this includes 
+- Mobile/Website UI Kit
+- Wireframes
+- Illustrations 
+- Graphics
 
-This plan includes custom graphic designs, illustrations, websites, landing pages, dashboards, app UI/UX
+#### [Draftss](https://draftss.com) - 50% off  
+
+This offer is on montly and quaterly plan. They provide 
+- custom graphic designs
+- illustrations
+- websites
+- landing pages
+- dashboards
+- app UI/UX
 
 ## Themes and UI Kit
 
