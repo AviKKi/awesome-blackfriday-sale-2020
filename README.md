@@ -7,12 +7,18 @@ To get update on the deals watch 👀 this repo.
 If you like this list, start 🌟 it.
 
 ## Table of content
+1. [Courses](#courses)
+1. [Design](#design)
 1. [Domain](#domain)
 1. [Hosting](#hosting)
+1. [Themes and UI Kit](#themes-and-ui-kit)
+1. [Miscellaneous](#miscellaneous)
 
 
 ## Domain
+
 - [Hostinger](https://www.hostinger.com/) - Free domain with hosting plan.
+
 - [Namecheap](https://www.namecheap.com/) - Coupon code for domain names is *BFTLDREG*
 
 | tld  | sale price | original price |
@@ -40,6 +46,37 @@ If you like this list, start 🌟 it.
 
 
 ## Hosting
+
 - [Hostinger](https://www.hostinger.com/) - upto 90% off on hosting plans.
+
 - [Namecheap](https://www.namecheap.com/) - Shared Hosting, EasyWP
   
+## Courses
+
+- [Udemy](https://www.udemy.com/) - All courses at 9.99$ or ₹360( in India ), offer applicable worldwide with local price.
+
+- [Make your React App a Progressive Web App](https://gumroad.com/l/react-pwa-course/ohyftxc) - 50% preorder discount
+
+- [Vuejs School](https://vueschool.io/sales/blackfriday) - 40% off, master Vue.js and the whole ecosystem Nuxt.js, VueX, storybook etc.
+
+## Design
+
+- [Craftwork Design](https://craftwork.design/black-friday/) - upto 50% off on illustrations
+
+- [Draftss](https://draftss.com) - 50% off monthly and quarterly plans for custom graphic designs, illustrations, websites, landing pages,
+dashboards, app UI/UX
+
+## Themes and UI Kit
+
+- [Themesberg](https://themesberg.com/black-friday) - 90% off on 7 Premium Themes Powered by Bootstrap CSS, Themesberg has an awesome collection of themes and UI kits, along with some free themes.
+
+
+## Miscellaneous
+
+- [Divjoy](https://divjoy.com/) - 67% off on React codebase generator. Divjoy handles all the integration details. From routing to React hooks, you'll have everything you need to build something great.
+
+- [Checkbot for Chrome](https://www.checkbot.io/) - 60% off on chrome plugin. Test webpages for critical SEO, speed and security issues.
+
+- [Postpace](https://pitchground.com/products/postpace) - save upto 90%, life time membership 
+Content Writing Research Platform
+Automate Your Hours Of Topic Research In Two Minutes And Helps You Write Content Faster & Better!
