@@ -78,6 +78,10 @@ Enroll today and enjoy a free course or your first month of a Specialization for
 Master Vue.js and the whole ecosystem Nuxt.js, VueX, storybook etc.
 
 
+#### [Level Up Tutorials](https://www.leveluptutorials.com/pro) - 50% off yearly subscriptions
+
+Become a pro at ReactJS, Svelte, Deno, Figma and much more with a huge catalog of courses.
+
 
 #### [Desktop Apps with Electron](https://desktopappswithelectron.com/) - 50% off
 
