@@ -77,6 +77,26 @@ Enroll today and enjoy a free course or your first month of a Specialization for
 
 Master Vue.js and the whole ecosystem Nuxt.js, VueX, storybook etc.
 
+
+
+#### [Desktop Apps with Electron](https://desktopappswithelectron.com/) - 50% off
+
+#### [ES6 for everyone](https://es6.io/) - 50% off
+
+#### [Learnetto Bundle!](https://learnetto.com/blackfriday) - $299 ~$831~
+
+This bundle includes 
+- React 
+- Redux
+- Next.js
+- Node CLIs
+- GraphQL
+- Tailwind CSS
+- VSCode
+- Serverless
+- Gatsby
+- JAMStack & more
+
 #### [Design Sprint Masterclass](https://go.ajsmart.com/blackfriday-sales) - 70% off
 
 Learn how to do design sprints, bonus includes
