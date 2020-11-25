@@ -134,3 +134,7 @@ Checkbot is a chrome plugin that can test webpages for critical SEO, speed and s
 Content Writing Research Platform
 
 Automate Your Hours Of Topic Research In Two Minutes And Helps You Write Content Faster & Better!
+
+#### [Mugshot Bot](https://mugshotbot.com) - save 50%, forever
+
+Automated link preview images for your blog, without design tools.
