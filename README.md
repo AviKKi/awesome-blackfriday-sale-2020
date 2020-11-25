@@ -125,6 +125,20 @@ This offer is on montly and quaterly plan. They provide
 - dashboards
 - app UI/UX
 
+#### [Affinity Designer](https://affinity.serif.com/en-us/designer/#buy) - 30% off
+#### [Nucleo App (icons)](https://nucleoapp.com/) - 25% off
+
+An icon pack of 30K icons, and an icon organizer.
+This tool really helps to maintain consistancy in the icons.
+
+#### [Designmodo](https://designmodo.com/blackfriday/) - 30% off
+
+Use code *BLACK* 
+
+
+Use coupon code *blackfriday25*
+
+
 ## Themes and UI Kit
 
 #### [Themesberg](https://a.paddle.com/v2/click/113942/123690?link=3071) - 90% off, only 150 left
@@ -134,6 +148,16 @@ This offer is on montly and quaterly plan. They provide
 7 Premium Themes Powered by Bootstrap CSS 
 
 Themesberg has an awesome collection of themes and UI kits, along with some free themes.
+
+#### [Creative Tim](https://www.creative-tim.com/campaign) - 90% off
+
+They have 5 stacks, with each one having 10-17 Design kits, Code + design files included.
+
+React Stack - 99$
+Laravel Stack - 99$
+Bootstrap Stack - 99$
+Angular Stack - 99$
+Vue Stack - 99$
 
 
 ## Miscellaneous
