@@ -109,6 +109,10 @@ Themesberg has an awesome collection of themes and UI kits, along with some free
 
 ## Miscellaneous
 
+#### [Elementor](https://elementor.com/promotions/black-friday/) - upto 25% off
+
+Elementor is a drag-n-drop website builder for WordPress.
+
 #### [Divjoy](https://divjoy.com/) - 67% off
 
 Divjoy is a React codebase generator. Divjoy handles all the integration details. From routing to React hooks, you'll have everything you need to build something great.
