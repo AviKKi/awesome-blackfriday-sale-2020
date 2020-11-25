@@ -76,6 +76,14 @@ Enroll today and enjoy a free course or your first month of a Specialization for
 
 Master Vue.js and the whole ecosystem Nuxt.js, VueX, storybook etc.
 
+#### [Design Sprint Masterclass](https://go.ajsmart.com/blackfriday-sales) - 70% off
+
+Learn how to do design sprints, bonus includes
+
+- Certificate
+- Access to Pro Facebook group
+- Monthly Q/A coaching calls
+
 ## Design
 
 #### [Craftwork Design](https://craftwork.design/black-friday/) - upto 50% off 
