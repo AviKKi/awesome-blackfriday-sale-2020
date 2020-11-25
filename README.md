@@ -65,6 +65,10 @@ Shared Hosting, EasyWP and more.
 
 All courses at 9.99$ or ₹360( in India ), offer applicable worldwide with local price.
 
+#### [Coursera](https://eventing.coursera.org/redirectSigned/eyJrZXkiOiJlbWFpbC5saW5rLm9wZW4iLCJ2YWx1ZSI6eyJ1cmwiOiJodHRwczovL3d3dy5jb3Vyc2VyYS5vcmcvc291bC8_dXRtX21lZGl1bT1lbWFpbCZ1dG1fc291cmNlPW1hcmtldGluZyZ1dG1fY2FtcGFpZ249ZjI1S29Da0NFZXVJVGxOWExOaDBNZyNleGNsdXNpdmVuZXdjb2xsZWN0aW9ucyIsInRyYWNraW5nIjp7InVzZXJJZCI6NDEwODY3OTMsInVzZXJFbWFpbCI6ImF0dWw3NTU1QGdtYWlsLmNvbSIsIm5vdGlmaWNhdGlvblR5cGUiOiJmY3dId0NQZEVldUJvOG04Xzdmb0FnIiwiY2FtcGFpZ25JZCI6Im1hcmtldGluZ34yMDIwLTExLTI0IiwiY2FtcGFpZ25Hcm91cCI6ImYyNUtvQ2tDRWV1SVRsTlhMTmgwTWciLCJsaW5rcyI6W119fSwidXNlcklkIjo0MTA4Njc5M30.1v-elMxM7KD9dQIlqOPbXRKseBdUvqxNnrrivGs89iY) - 1 month Free!
+
+Enroll today and enjoy a free course or your first month of a Specialization for free!* The offer ends on December 4, and your discount will be applied at checkout. Please forward this limited time offer to your family, friends, and fellow learners!
+
 #### [Make your React App a Progressive Web App](https://gumroad.com/l/react-pwa-course/ohyftxc) - 50% preorder discount
 
 
@@ -82,7 +86,7 @@ Craftwork has assets for Interface designers, this includes
 - Illustrations 
 - Graphics
 
-#### [Draftss](https://draftss.com) - 50% off  
+#### [Draftss](https://draftss.com/?via=atul21) - 50% off  
 
 This offer is on montly and quaterly plan. They provide 
 - custom graphic designs
@@ -94,7 +98,9 @@ This offer is on montly and quaterly plan. They provide
 
 ## Themes and UI Kit
 
-#### [Themesberg](https://themesberg.com/black-friday) - 90% off 
+#### [Themesberg](https://a.paddle.com/v2/click/113942/123690?link=3071) - 90% off, only 150 left
+
+*offer only on first 150 orders*
 
 7 Premium Themes Powered by Bootstrap CSS 
 
