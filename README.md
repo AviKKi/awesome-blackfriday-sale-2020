@@ -71,6 +71,7 @@ Enroll today and enjoy a free course or your first month of a Specialization for
 
 #### [Make your React App a Progressive Web App](https://gumroad.com/l/react-pwa-course/ohyftxc) - 50% preorder discount
 
+#### [Start developing websites like it's 2025 using React](https://react2025.com/) - 80% off 
 
 #### [Vuejs School](https://vueschool.io/sales/blackfriday) - 40% off 
 
