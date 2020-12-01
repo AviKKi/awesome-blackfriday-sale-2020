@@ -51,6 +51,24 @@ Coupon code for domain names is *BFTLDREG*
 
 ## Hosting
 
+#### [Cloud Cone](https://hello.cloudcone.com/cyber-monday-vps-sale/) - 1GB vps at 14$/yr
+
+
+#### [HosterLabs](https://hosterlabs.net/panel/store/vps-promos) - 
+
+Limited vps left, 256Mb at 0.7$/month & 512Mb at 1.7$/month
+
+#### [HosterLabs](https://hosterlabs.net/panel/store/vps-promos) - 
+
+
+#### cheapwindowsvps.com - 50% off Windows VPS
+
+4Gb at 4.5$/month [link](https://cheapwindowsvps.com/manage/cart.php?a=confproduct&i=0)
+8Gb at 8.25$/month [link](https://cheapwindowsvps.com/manage/cart.php?a=confproduct&i=1)
+
+
+
+
 #### [Hostinger](https://www.hostinger.com/) - upto 90% off 
 
 Offers on hosting plans.
